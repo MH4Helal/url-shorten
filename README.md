@@ -14,7 +14,7 @@ This is a URL shortening service built with Laravel, storing URL mappings in a J
 1.  **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/MH4Helal/url-shorten
     cd url-shorten
     ```
 
